@@ -1,6 +1,5 @@
 import React from "react";
 import { useWindowSize } from "./windowsize";
-import "./App.css";
 
 function App() {
   let width = useWindowSize();
